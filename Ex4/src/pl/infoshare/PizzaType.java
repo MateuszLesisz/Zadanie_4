@@ -1,6 +1,6 @@
 package pl.infoshare;
 
-public class PizzaType {
+public class PizzaType extends  Menu{
     private String margharita;
     private String capri;
     private String boscaiola;
