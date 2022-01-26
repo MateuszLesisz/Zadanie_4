@@ -1,4 +1,4 @@
-# Zadanie_4# Zadanie 4 - OOP w Java
+Zadanie 4 - OOP w Java
 #### Zakres: klasa, obiekt, konstruktor, dziedziczenie, enum
 
 
